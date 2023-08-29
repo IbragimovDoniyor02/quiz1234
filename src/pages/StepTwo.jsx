@@ -33,7 +33,7 @@ const answerTypes = [
       <div className="variants-quiz">
      <Indicator progress={2} />
         <div className="question">
-          <Header type="h2" headerText="1. Занимательный вопрос" />
+          <Header type="h2" headerText="2. Занимательный вопрос" />
           <ul className="variants">
             {
               answerTypes.map(answerItem => (
